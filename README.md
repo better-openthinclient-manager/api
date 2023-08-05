@@ -1,1 +1,1 @@
-# API for better openthinclient manager by Johannes Bauersachs.
+API for better openthinclient manager by Johannes Bauersachs.
